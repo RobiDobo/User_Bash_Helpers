@@ -40,13 +40,13 @@ sudo apt update
 sudo apt install coreutils sysstat``
 
 ## 🚀 Installation & Usage
-1.Download the script:
-``git clone https://github.com/RobiDobo/User_Bash_Helpers.git
-cd User_Bash_Helpers``
-2.Make it executable:
-``chmod +x admin.sh``
-3.Run with sudo (recommended):
-``sudo ./admin.sh``
-4.Follow the menu prompts to perform administrative tasks.
+- Download the script:
+   - ``git clone https://github.com/RobiDobo/User_Bash_Helpers.git``
+   - ``cd User_Bash_Helpers``
+- Make it executable:
+   ``chmod +x admin.sh``
+- Run with sudo (recommended):
+   ``sudo ./admin.sh``
+- Follow the menu prompts to perform administrative tasks.
 
 
