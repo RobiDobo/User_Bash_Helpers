@@ -1,6 +1,6 @@
 # User_Bash_Helpers
 
-## ✨ Features
+## Features
 - **Create New User**  
   - Prompt for username & group  
   - Automatically create group if missing  
@@ -12,8 +12,8 @@
   - Memory usage (RAM %)  
   - CPU load averages (1, 5, 15 min)  
   - CPU usage % with alerts for:  
-    - 🔴 High I/O Wait (>15%)  
-    - 🟡 High System Time (>25%)  
+    - High I/O Wait (>15%)  
+    - High System Time (>25%)  
   - I/O statistics via `iostat` (requires `sysstat`)
 
 - **Run Security Audit**  
@@ -27,7 +27,7 @@
 
 ---
 
-## ⚙️ Requirements & Dependencies
+## Requirements & Dependencies
 This script relies on standard GNU/Linux utilities.
 
 **Required commands:**
@@ -39,7 +39,7 @@ This script relies on standard GNU/Linux utilities.
 sudo apt update
 sudo apt install coreutils sysstat``
 
-## 🚀 Installation & Usage
+## Installation & Usage
 - Download the script:
    - ``git clone https://github.com/RobiDobo/User_Bash_Helpers.git``
    - ``cd User_Bash_Helpers``
